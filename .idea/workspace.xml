@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8974e3b-16f9-4f46-85ca-bc1f1a541353" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aqcfdfg1AJhv3fNZBserUwhmpE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Matteo\Desktop\Nuova cartella\src\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8974e3b-16f9-4f46-85ca-bc1f1a541353" name="Default Changelist" comment="" />
+      <created>1587466668439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587466668439</updated>
+      <workItem from="1587466675620" duration="811000" />
+      <workItem from="1587633637771" duration="28000" />
+      <workItem from="1587724093345" duration="23000" />
+      <workItem from="1587724169205" duration="218000" />
+      <workItem from="1587724569873" duration="390000" />
+      <workItem from="1587735950950" duration="3582000" />
+      <workItem from="1587837202053" duration="65422000" />
+      <workItem from="1588153728641" duration="1579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="88" key="#ESLint" timestamp="1587842513955">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="88" key="#ESLint/0.0.1440.860@0.0.1440.860" timestamp="1587842513955" />
+    <state x="473" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587837715935">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="473" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1587837715935" />
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom" timestamp="1587838232103">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587838232103" />
+    <state width="1419" height="202" key="GridCell.Tab.0.center" timestamp="1587838232103">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587838232103" />
+    <state width="1419" height="202" key="GridCell.Tab.0.left" timestamp="1587838232102">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587838232102" />
+    <state width="1419" height="202" key="GridCell.Tab.0.right" timestamp="1587838232103">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587838232103" />
+  </component>
+</project>
